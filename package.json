@@ -1,0 +1,14 @@
+{
+  "name": "gitlord-electron",
+  "version": "0.1.0",
+  "description": "Electron wrapper around gitlord",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nativefier": "^7.0.1"
+  }
+}
